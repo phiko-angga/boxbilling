@@ -1,0 +1,224 @@
+[26-Oct-2020 06:23:54 UTC] Unable to find template "mod_page_bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed.png" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 06:23:54 UTC] Page bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed not found
+[26-Oct-2020 06:24:02 UTC] 
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[26-Oct-2020 06:24:02 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[26-Oct-2020 06:24:03 UTC] Please check your login details 403
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:09 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:24:09 UTC] Please check your login details 403
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:24:59 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 06:44:53 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 07:37:12 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[26-Oct-2020 07:37:12 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[26-Oct-2020 07:37:13 UTC] 
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[26-Oct-2020 07:37:13 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[26-Oct-2020 10:54:40 UTC] Unable to find template "mod_page_wp-admin.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 10:54:40 UTC] Page wp-admin not found
+[26-Oct-2020 11:16:53 UTC] Unable to find template "mod_page_wp-admin_plugins.php" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 11:16:53 UTC] Page wp-admin_plugins not found
+[26-Oct-2020 11:16:57 UTC] Unable to find template "mod_page_wp-admin_.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 11:16:57 UTC] Page wp-admin_ not found
+[26-Oct-2020 14:02:44 UTC] Unable to find template "mod_page_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:44 UTC] Page wp-includes_wlwmanifest not found
+[26-Oct-2020 14:02:44 UTC] Unable to find template "mod_page_xmlrpc.php" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:44 UTC] Page xmlrpc not found
+[26-Oct-2020 14:02:45 UTC] Unable to find template "mod_page_blog_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:45 UTC] Page blog_wp-includes_wlwmanifest not found
+[26-Oct-2020 14:02:45 UTC] Unable to find template "mod_page_wordpress_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:45 UTC] Page wordpress_wp-includes_wlwmanifest not found
+[26-Oct-2020 14:02:45 UTC] Unable to find template "mod_page_wp_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:45 UTC] Page wp_wp-includes_wlwmanifest not found
+[26-Oct-2020 14:02:46 UTC] Unable to find template "mod_page_site_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:46 UTC] Page site_wp-includes_wlwmanifest not found
+[26-Oct-2020 14:02:46 UTC] Unable to find template "mod_page_cms_wp-includes_wlwmanifest.xml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[26-Oct-2020 14:02:46 UTC] Page cms_wp-includes_wlwmanifest not found
+[27-Oct-2020 03:02:08 UTC] Page /fb/JSFormValidation.css not found
+[27-Oct-2020 03:02:08 UTC] Page /fb/JSFormValidation.js not found
+[27-Oct-2020 03:02:09 UTC] Unable to find template "mod_page_fb_css-zone_bg-gmail-zone.png" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[27-Oct-2020 03:02:09 UTC] Page fb_css-zone_bg-gmail-zone not found
+[27-Oct-2020 03:02:24 UTC] Page /fb/JSFormValidation.css not found
+[27-Oct-2020 03:02:24 UTC] Page /fb/JSFormValidation.js not found
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:01 UTC] 
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 08:21:01 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 08:21:01 UTC] Please check your login details 403
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:08 UTC] Please check your login details 403
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:21:36 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:22:45 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:22:46 UTC] Password too short! 0
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:04 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:04 UTC] Password must include at least one number! 0
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 08:23:13 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-vendor/phpmailer/phpmailer/class.phpmailer.php 516
+[27-Oct-2020 08:23:13 UTC] Could not instantiate mail function.
+[27-Oct-2020 08:23:13 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Mail.php 207
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 08:23:13 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 08:23:13 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-vendor/phpmailer/phpmailer/class.phpmailer.php 516
+[27-Oct-2020 08:23:13 UTC] Could not instantiate mail function.
+[27-Oct-2020 08:23:13 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Mail.php 207
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:24:08 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:29 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:37 UTC] Unable to find template "mod_page_bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed.png" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[27-Oct-2020 08:26:37 UTC] Page bb-themes_huraga_assets_img_icons_apple-touch-icon-114-precomposed not found
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 08:26:46 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 08:27:07 UTC] 2 Declaration of Model_ProductDomainTable::getProductSetupPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductSetupPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 08:27:07 UTC] 2 Declaration of Model_ProductDomainTable::getProductPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 10:48:53 UTC] Unable to find template "mod_page_niagahoster.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[27-Oct-2020 10:48:53 UTC] Page niagahoster not found
+[27-Oct-2020 10:51:48 UTC] 2 Declaration of Model_ProductDomainTable::getProductSetupPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductSetupPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 10:51:48 UTC] 2 Declaration of Model_ProductDomainTable::getProductPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:52:22 UTC] 
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 10:52:22 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 10:52:22 UTC] You have already created domain product. 413
+[27-Oct-2020 10:52:31 UTC] 2 Declaration of Model_ProductDomainTable::getProductSetupPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductSetupPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 10:52:31 UTC] 2 Declaration of Model_ProductDomainTable::getProductPrice(Model_Product $product, array $config = Array) should be compatible with Model_ProductTable::getProductPrice(Model_Product $product, ?array $config = NULL) /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Model/ProductDomainTable.php 14
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:53:47 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:07 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:18 UTC] 2 Division by zero /home/vyxrtujl/public_html/spraykewanitaan.site/bb-data/cache/a4/3a/5c14dff9aefc37264f35157632bbe601f8555cc134bf00f28915b41bbe63.php 163
+[27-Oct-2020 10:54:18 UTC] 2 trim() expects parameter 1 to be string, array given /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Url.php 64
+[27-Oct-2020 10:54:18 UTC] 2 A non-numeric value encountered /home/vyxrtujl/public_html/spraykewanitaan.site/bb-data/cache/a4/3a/5c14dff9aefc37264f35157632bbe601f8555cc134bf00f28915b41bbe63.php 163
+[27-Oct-2020 10:54:18 UTC] 2 Division by zero /home/vyxrtujl/public_html/spraykewanitaan.site/bb-data/cache/a4/3a/5c14dff9aefc37264f35157632bbe601f8555cc134bf00f28915b41bbe63.php 163
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 10:54:22 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:07:49 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:20 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:20 UTC] Please check your login details 403
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 54
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_decrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 61
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_get_iv_size() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 39
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_create_iv() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 40
+[27-Oct-2020 11:20:31 UTC] 8192 Function mcrypt_encrypt() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Crypt.php 41
+[27-Oct-2020 11:20:31 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-vendor/phpmailer/phpmailer/class.phpmailer.php 516
+[27-Oct-2020 11:20:31 UTC] Could not instantiate mail function.
+[27-Oct-2020 11:20:31 UTC] 2 mail() has been disabled for security reasons /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/Mail.php 207
+[27-Oct-2020 14:05:50 UTC] Unable to find template "mod_page_wp-admin_.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[27-Oct-2020 14:05:50 UTC] Page wp-admin_ not found
+[27-Oct-2020 16:28:01 UTC] Unable to find template "mod_page_.well-known/security.txt" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[27-Oct-2020 16:28:01 UTC] Page  not found
+[27-Oct-2020 22:17:33 UTC] License is not valid 0
+[27-Oct-2020 22:17:45 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:17:45 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:18:03 UTC] License is not valid 0
+[27-Oct-2020 22:18:07 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:18:07 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:18:07 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:18:07 UTC] Page signup not found
+[27-Oct-2020 22:19:17 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[27-Oct-2020 22:19:17 UTC] 8192 Function create_function() is deprecated /home/vyxrtujl/public_html/spraykewanitaan.site/bb-library/Box/BeanHelper.php 60
+[28-Oct-2020 01:11:16 UTC] Unable to find template "mod_page_my-account_.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[28-Oct-2020 01:11:16 UTC] Page my-account_ not found
+[28-Oct-2020 01:30:20 UTC] Unable to find template "mod_page_admin_.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[28-Oct-2020 01:30:20 UTC] Page admin_ not found
+[28-Oct-2020 04:25:35 UTC] Unable to find template "mod_page_admin_.phtml" (looked into: /home/vyxrtujl/public_html/spraykewanitaan.site/bb-themes/huraga/html, /home/vyxrtujl/public_html/spraykewanitaan.site/bb-modules/Page/html_client).
+[28-Oct-2020 04:25:35 UTC] Page admin_ not found

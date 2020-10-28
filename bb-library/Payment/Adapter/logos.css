@@ -1,0 +1,13 @@
+// bb-themes/huraga/assets/css/logos.css
+/**
+ * Append this css class for paylane logo on payment client.
+ */
+
+.logo-Paylane{
+    background: transparent url("https://marketplace.whmcs.com/product/4722/images/icon200-3b45d7cb07673aff9011b96e188d8747.png") no-repeat scroll 0% 0%;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    border: 0;
+    margin: 10px;
+}

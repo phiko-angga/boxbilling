@@ -1,0 +1,4 @@
+[27-Oct-2020 03:02:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php:1) in /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php(2) : eval()'d code on line 2
+[27-Oct-2020 03:02:08 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php(2) : eval()'d code on line 8
+[27-Oct-2020 03:02:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php:1) in /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php(2) : eval()'d code on line 2
+[27-Oct-2020 03:02:24 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/vyxrtujl/public_html/spraykewanitaan.site/fb/index.php(2) : eval()'d code on line 8
